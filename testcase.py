@@ -23,3 +23,4 @@ def test_cleanup():
 	driver.close()
 	driver.quit()
 	print("test selesai...")
+	print("test selesai...")
